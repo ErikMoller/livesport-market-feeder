@@ -4,11 +4,13 @@ import org.apache.commons.lang3.builder.EqualsBuilder;
 import org.apache.commons.lang3.builder.HashCodeBuilder;
 import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 
+import java.io.Serializable;
+
 /**
  * @author Erik Möller <mailto:erik.moller@live.com>
  * @since 1.0
  */
-public abstract class IntegerId {
+public abstract class IntegerId implements Serializable {
 
     private final static long serialVersionUID = 1L;
 

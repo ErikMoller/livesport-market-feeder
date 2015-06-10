@@ -13,4 +13,13 @@
     <artifactId>livesport-market-feeder-client</artifactId>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>livesport-market-feeder-domain</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
+    </dependencies>
+
 </project>

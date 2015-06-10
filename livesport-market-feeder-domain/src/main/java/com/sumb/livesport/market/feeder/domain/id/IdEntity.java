@@ -5,11 +5,13 @@ import org.apache.commons.lang3.builder.HashCodeBuilder;
 import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;
 
+import java.io.Serializable;
+
 /**
  * @author Erik Möller <mailto:erik.moller@live.com>
  * @since 1.0
  */
-public abstract class IdEntity<T> {
+public abstract class IdEntity<T> implements Serializable {
 
     private final static long serialVersionUID = 1L;
 

@@ -18,6 +18,13 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>livesport-market-feeder-client</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
     </dependencies>
 
 
