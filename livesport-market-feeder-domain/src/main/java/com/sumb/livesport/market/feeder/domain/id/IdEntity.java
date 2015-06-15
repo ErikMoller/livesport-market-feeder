@@ -6,6 +6,7 @@ import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;
 
 import java.io.Serializable;
+import java.util.Objects;
 
 /**
  * @author Erik Möller <mailto:erik.moller@live.com>
@@ -16,6 +17,10 @@ public abstract class IdEntity<T> implements Serializable {
     private final static long serialVersionUID = 1L;
 
     private T id;
+
+    protected IdEntity(T id) {
+        this.id = Objects.requireNonNull(id, "id");
+    }
 
     public T getId() {
         return id;

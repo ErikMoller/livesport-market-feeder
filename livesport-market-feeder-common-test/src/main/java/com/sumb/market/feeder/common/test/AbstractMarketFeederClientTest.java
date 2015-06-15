@@ -5,6 +5,8 @@ import com.sumb.livesport.market.feeder.domain.league.MarketTeam;
 import org.junit.Ignore;
 import org.junit.Test;
 
+import static org.junit.Assert.assertEquals;
+
 /**
  * @author Erik Möller <mailto:erik.moller@live.com>
  * @since 1.0
@@ -16,8 +18,8 @@ public abstract class AbstractMarketFeederClientTest {
     @Test
     @Ignore
     public void testGetCeltic() {
-        MarketTeam celtic = getClient().getTeam("Celtic");
-        System.out.println(celtic);
+        MarketTeam team = getClient().getTeam("Celtic");
+        assertEquals(team.getName(), "Celtic");
 
     }
 }

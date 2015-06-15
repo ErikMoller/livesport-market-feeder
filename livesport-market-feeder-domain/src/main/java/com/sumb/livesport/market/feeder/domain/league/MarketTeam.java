@@ -13,17 +13,15 @@ public final class MarketTeam extends IdEntity<MarketTeamId> {
 
     private final static long serialVersionUID = 1L;
 
-    private final MarketTeamId id;
     private final String name;
 
     public MarketTeam(Builder builder) {
-        this.id = Objects.requireNonNull(builder.id, "id");
+        super(builder.id);
         this.name = Objects.requireNonNull(builder.name, "name");
     }
 
-
-    public MarketTeamId getId() {
-        return id;
+    public String getName() {
+        return name;
     }
 
     public static Builder builder() {
