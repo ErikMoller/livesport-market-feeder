@@ -6,9 +6,7 @@ import com.sumb.livesport.market.feeder.domain.league.MarketTeam;
 import org.yaml.snakeyaml.Yaml;
 
 import java.io.InputStream;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
  * @author Erik Möller <mailto:erik.moller@live.com>
@@ -28,6 +26,11 @@ public class FakeMarketDataClientImpl implements MarketDataClient {
     @Override
     public MarketTeam getTeam(String name) {
         return teams.get(name);
+    }
+
+    @Override
+    public Set<MarketTeam> getAllTeams() {
+        return new HashSet<MarketTeam>(teams.values());
     }
 
     private void initData() {

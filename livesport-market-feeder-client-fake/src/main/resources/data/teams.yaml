@@ -1,2 +1,72 @@
-- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {id: 54, name: Celtic}
-- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {id: 3, name: name2}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 926,
+  name: EAST FIFE, stadium: Bayview Stadium}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 927,
+  name: STENHOUSEMUIR, stadium: Ochilview Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 928,
+  name: FORFAR, stadium: Station Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 360,
+  name: Ross County, stadium: Victoria Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 522,
+  name: Dundee FC, stadium: Dens Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 561,
+  name: Partick, stadium: Firhill Stadium}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 562,
+  name: Raith Rvs, stadium: Stark's Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 563,
+  name: Ayr, stadium: Somerset Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 565,
+  name: Stirling, stadium: Forthbank Stadium}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 566,
+  name: Clyde, stadium: Broadwood Stadium}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 706,
+  name: Arbroath, stadium: Gayfield Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 707,
+  name: Alloa, stadium: Recreation Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 760,
+  name: Queen of South, stadium: Palmerston Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 45,
+  name: Aberdeen, stadium: Pittodrie Stadium}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 46,
+  name: St Johnstone, stadium: McDiarmid Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 47,
+  name: Motherwell, stadium: Fir Park Stadium}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 48,
+  name: Inverness C, stadium: Caledonian Stadium}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 49,
+  name: Rangers, stadium: Ibrox Stadium}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 50,
+  name: Hearts, stadium: Tynecastle Stadium}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 51,
+  name: Dundee United, stadium: Tannadice Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 52,
+  name: Kilmarnock, stadium: Rugby Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 53,
+  name: Hibernian, stadium: Easter Road}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 54,
+  name: Celtic, stadium: Celtic Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 55,
+  name: Dunfermline, stadium: East End Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 56,
+  name: St Mirren, stadium: St. Mirren Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 254,
+  name: Falkirk, stadium: Falkirk Stadium}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 291,
+  name: Gretna, stadium: ''}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 674,
+  name: Brechin, stadium: Glebe Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 675,
+  name: Stranraer, stadium: Stair Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 556,
+  name: Airdrie Utd, stadium: New Broomfield}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 557,
+  name: Dumbarton, stadium: The Bet Butler Stadium}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 558,
+  name: Cowdenbeath, stadium: Central Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 559,
+  name: Morton, stadium: Cappielow Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 560,
+  name: Livingston, stadium: Almondvale Stadium}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 228,
+  name: Hamilton, stadium: New Douglas Park}
+- !!com.sumb.livesport.market.feeder.client.data.FakeTeam {country: Scotland, id: 1095,
+  name: 'PETERHEAD (SF) ', stadium: Balmoor}

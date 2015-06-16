@@ -8,6 +8,7 @@ import org.junit.Ignore;
  * @author Erik Möller <mailto:erik.moller@live.com>
  * @since 1.0
  */
+@Ignore
 public class MarketDataClientImplIntegrationTest extends AbstractMarketFeederClientTest {
 
 
