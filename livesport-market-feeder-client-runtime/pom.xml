@@ -30,15 +30,6 @@
             <version>${project.version}</version>
         </dependency>
 
-        <!--
-            Internal Dependencies
-        -->
-
-        <dependency>
-            <groupId>com.github.pabloo99.xmlsoccer</groupId>
-            <artifactId>xmlsoccer</artifactId>
-        </dependency>
-
     </dependencies>
 
 </project>
